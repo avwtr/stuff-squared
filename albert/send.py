@@ -10,16 +10,12 @@ auth_token = os.getenv('TWILIO_AUTH_TOKEN')
 client = Client(account_sid, auth_token)
 
 
-content_var = facts("how big is the universe")
-formatted = content_var.split('\n\n', 1)[1]
-
-
 message = client.messages \
     .create(
-        body="I am going to kill you in your sleep",
-        from_='+18316182709',
+        body= <message>,
+        from_= <number>,
          #replace with your own number 
-        to='+13028412936'
+        to= <recipient_num>
     )
 
 print(message.sid)
