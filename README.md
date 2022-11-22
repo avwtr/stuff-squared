@@ -27,17 +27,16 @@ technical details: he was pieced together using python, more specifically i used
 
 examples of albert at work: 
 
-basic conversation
+basic conversation: 
 ![2medium-albrert](https://user-images.githubusercontent.com/63463942/203387830-a0a59769-520d-447d-ba3a-ca8d3dfdadc1.png)
 
 
-subjective prompt-response
-![fixeddd](https://user-images.githubusercontent.com/63463942/203388288-e28e37ea-1b6f-4039-8001-a1fe350ae985.png)
+subjective prompt-response: 
+![finalgravalbt](https://user-images.githubusercontent.com/63463942/203388560-cba512d2-4e81-4d5e-999e-402856f9f3a2.png)
 
 
 
-
-technical prompt-response
+technical prompt-response: 
 ![gravi-alb](https://user-images.githubusercontent.com/63463942/203387993-fb771307-fd46-443f-b00d-c5566f532bc0.png)
 
 
