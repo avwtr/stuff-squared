@@ -9,4 +9,4 @@ motivations:
 
 - im relatively new to the world of programming (~ 2 years), so this will be an effective way for me to get my hands dirty, and fortify my skillset, while further understanding the process by which i can try to effect real change (however big or small) in the world. 
 
-- i like build stuff and putting it out in the world. 
+- i like building stuff and putting it out in the world. 
