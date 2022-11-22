@@ -32,7 +32,8 @@ basic conversation
 
 
 subjective prompt-response
-![medium-albert](https://user-images.githubusercontent.com/63463942/203388081-3ecf98cc-beff-42a2-ba12-7e8e6ed28c99.png)
+![fixeddd](https://user-images.githubusercontent.com/63463942/203388288-e28e37ea-1b6f-4039-8001-a1fe350ae985.png)
+
 
 
 
