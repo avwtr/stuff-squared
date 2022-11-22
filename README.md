@@ -26,6 +26,10 @@ technical details: he was pieced together using python, more specifically i used
 
 **text albert +1 831 - 618 - 2709**
 
+
+blog post: https://medium.com/@avstuff/52-apps-52-weeks-af7d3ad765dc
+
+
 -------------------------------------------------------------------------------------------------------------------
 
 
