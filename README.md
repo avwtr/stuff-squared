@@ -77,12 +77,18 @@ examples of albert at work:
 
 ## app 2, week 2: Healthviz 
 
-(will insert further details soon)
-now live @ healthviz.app -- only works on desktop web browsers. will render blank screen on mobile browser. 
+
+https://healthviz.app/ -- only works on desktop web browsers. will render blank screen on mobile browser. 
 
 
 ![ui pic](https://user-images.githubusercontent.com/63463942/203390358-ae5fc67f-6df2-44f4-b9d5-4b1b58fef8a4.png)
 
 
 
+description: the goal of healthviz is to provide users with a simple, but powerful tool for tracking their health and fitness data. users can log daily workouts, meals, and mental health updates and on the backend, healthviz will store these user logs and visualize this data via a dashboard. healthviz is a web-based application (currently on works for desktop based browsing)
 
+motivations: 
+
+- i often find that data visualization/data analysis tools within the realm of fitness tracking tend to be somewhat underwhelming. given my background in data analysis, i figured this would be an interesting thing to try and improve upon. 
+
+- i started an extensive weight loss journey in 2021 (having since lost 80 lbs) and attribute much of my initial fitness momentum to a fitness dashboard that i created for myself, with which i would log all calorie intake/expenditure/deficit, workout logs, meals, mental health status, etc.. This type of tool helped me further cement my motivation for the weight loss journey and thus, i figured i would put my own spin on a health tracking app. 
