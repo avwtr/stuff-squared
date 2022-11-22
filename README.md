@@ -1,5 +1,5 @@
 # stuff-squared
-52 apps 52 weeks. 
+## 52 apps 52 weeks. 
 
 it is quite simple - every week i will conceptualize/design/develop/launch a new app (of all sorts: mobile, web, SMS, etc.) and launch a subsquent blog post documenting the process. 
 
@@ -14,7 +14,7 @@ motivations:
 
 -------------------------------------------------------------------------------------------------------------------
 
-#app 1, week 1: "albert, the genius text messaging companion"
+## app 1, week 1: "albert, the genius text messaging companion"
 
 
 ![small-abl](https://user-images.githubusercontent.com/63463942/203387083-5c431f22-317c-4537-b1d8-5cc6a5430705.png)
