@@ -19,3 +19,26 @@ app 1, week 1: "albert, the genius text messaging companion"
 
 
 ![small-abl](https://user-images.githubusercontent.com/63463942/203387083-5c431f22-317c-4537-b1d8-5cc6a5430705.png)
+
+
+description: albert is simple - you text him stuff (+1 831 - 618 - 2709), and he will hopefully respond in an interesting/humorous/informative way. 
+
+technical details: he was pieced together using python, more specifically i used GPT3 for the vast majority the response engine (some hardcoding, and i also hope to implement my own training set sometime), Twilio SMS API, Flask, and ngrok for processing all the sending/recieving of messages. also, i deployed albert using the google cloud compute engine. 
+
+examples of albert at work: 
+
+basic conversation
+![2medium-albrert](https://user-images.githubusercontent.com/63463942/203387830-a0a59769-520d-447d-ba3a-ca8d3dfdadc1.png)
+
+
+subjective prompt-response
+![fixeddd](https://user-images.githubusercontent.com/63463942/203387941-8c34d484-50b1-4e48-88aa-beaa9814733a.png)
+
+technical prompt-response
+![gravi-alb](https://user-images.githubusercontent.com/63463942/203387993-fb771307-fd46-443f-b00d-c5566f532bc0.png)
+
+
+
+
+
+
