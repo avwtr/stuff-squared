@@ -13,7 +13,6 @@ motivations:
 
 
 -------------------------------------------------------------------------------------------------------------------
--------------------------------------------------------------------------------------------------------------------
 
 app 1, week 1: "albert, the genius text messaging companion"
 
@@ -24,6 +23,11 @@ app 1, week 1: "albert, the genius text messaging companion"
 description: albert is simple - you text him stuff (+1 831 - 618 - 2709), and he will hopefully respond in an interesting/humorous/informative way. 
 
 technical details: he was pieced together using python, more specifically i used GPT3 for the vast majority the response engine (some hardcoding, and i also hope to implement my own training set sometime), Twilio SMS API, Flask, and ngrok for processing all the sending/recieving of messages. also, i deployed albert using the google cloud compute engine. 
+
+**text albert +1 831 - 618 - 2709**
+
+-------------------------------------------------------------------------------------------------------------------
+
 
 examples of albert at work: 
 
