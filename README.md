@@ -71,5 +71,14 @@ examples of albert at work:
 -------------------------------------------------------------------------------------------------------------------
 
 
+## app 2, week 2: Healthviz 
+
+(will insert further details soon)
+now live @ healthviz.app -- only works on desktop web browsers. will render blank screen on mobile browser. 
+
+
+![ui pic](https://user-images.githubusercontent.com/63463942/203390358-ae5fc67f-6df2-44f4-b9d5-4b1b58fef8a4.png)
+
+
 
 
