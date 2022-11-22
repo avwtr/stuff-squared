@@ -12,6 +12,10 @@ motivations:
 - i like building stuff and putting it out in the world. 
 
 
-
-
 -------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------
+
+app 1, week 1: "albert, the genius text messaging companion"
+
+
+![small-abl](https://user-images.githubusercontent.com/63463942/203387083-5c431f22-317c-4537-b1d8-5cc6a5430705.png)
