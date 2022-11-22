@@ -32,7 +32,7 @@ basic conversation:
 
 
 subjective prompt-response: 
-![finalgravalbt](https://user-images.githubusercontent.com/63463942/203388560-cba512d2-4e81-4d5e-999e-402856f9f3a2.png)
+![albbyyyyy](https://user-images.githubusercontent.com/63463942/203388717-0d06db48-29e0-4c67-a726-3566b9211377.png)
 
 
 
