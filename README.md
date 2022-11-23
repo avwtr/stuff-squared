@@ -85,7 +85,7 @@ https://healthviz.app/ -- only works on desktop web browsers. will render blank 
 
 
 
-description: the goal of healthviz is to provide users with a simple, but powerful tool for tracking their health and fitness data. users can log daily workouts, meals, and mental health updates and on the backend, healthviz will store these user logs and visualize this data via a dashboard. healthviz is a web-based application (currently on works for desktop based browsing)
+description: the goal of healthviz is to provide users with a simple, but powerful tool for tracking their health and fitness data. users can log daily workouts, meals, and mental health updates and on the backend, healthviz will store these user logs and visualize this data via a dashboard. healthviz is a web-based application (currently only works for desktop browsing)
 
 motivations: 
 
