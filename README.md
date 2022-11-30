@@ -101,6 +101,7 @@ motivations:
 https://the-portal.app/   - if browsing on mobile, it only works with the latest iOS version. 
 
 
+![portal](https://raw.githubusercontent.com/avwtr/stuff-squared/main/portal/portalimg.png)
 
 description: the portal is a simple website in which you can input a text prompt, and recieve a unique, AI generated image based on your prompt. the portal uses the DALLE-2 model developed by OpenAI and is interfaced via streamlit. the portal will serve as a foundational app, that i will continue to add/contribute to over time (similar to most of the apps i develop for this project). in particular, i would like to migrate towards using Stable Diffusion instead of DALLE, implement a more custom built-model, and perhaps even build in an image to image capability. 
 
