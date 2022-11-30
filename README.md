@@ -105,7 +105,7 @@ https://the-portal.app/   - if browsing on mobile, it only works with the latest
 description: the portal is a simple website in which you can input a text prompt, and recieve a unique, AI generated image based on your prompt. the portal uses the DALLE-2 model developed by OpenAI and is interfaced via streamlit. the portal will serve as a foundational app, that i will continue to add/contribute to over time (similar to most of the apps i develop for this project). in particular, i would like to migrate towards using Stable Diffusion instead of DALLE, implement a more custom built-model, and perhaps even build in an image to image capability. 
 
 motivations: 
-- DALLE and Stable Diffusion are some of the most exciting new technologies developed both within the AI/ML space, and in general. 
+- DALLE and Stable Diffusion are some of the most exciting new technologies developed within the AI/ML space, and in general. 
 - AI/ML are my core interest, and i will learn a lot about prompt-engineering, model-training, interfacing ML technology into consumer facing applications, etc.
 - there is lots of room for growth/addition - i can continue to add on top of this initial version. 
 
