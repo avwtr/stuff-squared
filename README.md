@@ -118,5 +118,5 @@ motivations:
 https://tasktrail.app/
 
 
-![taskTrail](https://github.com/avwtr/stuff-squared/blob/main/taskTrail/ttrail.png?raw=true)
+![taskTrail](https://github.com/avwtr/stuff-squared/blob/main/taskTrail/smaller.png?raw=true)
 
