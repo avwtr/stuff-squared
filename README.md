@@ -110,3 +110,12 @@ motivations:
 - AI/ML are my core interest, and i will learn a lot about prompt-engineering, model-training, interfacing ML technology into consumer facing applications, etc.
 - there is lots of room for growth/addition - i can continue to add on top of this initial version. 
 
+
+-------------------------------------------------------------------------------------------------------------------
+
+## app 4, week 4: taskTrail
+
+https://tasktrail.app/
+
+
+
