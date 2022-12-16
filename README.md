@@ -120,3 +120,14 @@ https://tasktrail.app/
 
 ![taskTrail](https://github.com/avwtr/stuff-squared/blob/main/taskTrail/smaller.png?raw=true)
 
+
+description: taskTrail is a web app that helps you log tasks/events as you complete them (entering in some details regarding the completed task/event). taskTrail then consolidates all of your logs, allows you to query them retroactively, and offers some simple data visualizations regarding your activity. 
+
+motivations: 
+- i often find most task management tools to be inept. 
+- taskTrail is something simple, and easy - it is something that i would use. 
+- in a time crunch, taskTrail was somewhat straighforward to develop when compared to alternatives. 
+
+-------------------------------------------------------------------------------------------------------------------
+
+
