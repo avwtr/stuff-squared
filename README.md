@@ -1,7 +1,7 @@
 # stuff-squared
 ## 52 apps 52 weeks. 
 
-it is quite simple - every week i will conceptualize/design/develop/launch a new app (of all sorts: mobile, web, SMS, etc.) and launch a subsquent blog post documenting the process. 
+it is quite simple - every week i will develop/launch a new app (of all sorts: mobile, web, SMS, etc.) and launch a subsquent blog post documenting the process. 
 
 motivations: 
 
