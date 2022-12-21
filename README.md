@@ -132,3 +132,9 @@ motivations:
 
 ![trivia](https://github.com/avwtr/stuff-squared/blob/main/triviaverse/gr.png?raw=true)
 
+
+description: triviaverse is a simple, science trivia mobile app, built for iOS. the app generates 10 unique science trivia questions (pulling from the open trivia API) - once you complete a quiz, the app will display your score, and you can retry with a new of questions. 
+
+motivations: 
+- i am new to the world of mobile app development, so this would be a good way for me to learn Swift/iOS dev
+- i wanted to refresh my understanding of app store deployment/Xcode/testflight/etc. 
