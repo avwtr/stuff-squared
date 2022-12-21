@@ -130,4 +130,5 @@ motivations:
 
 ## app 5, week 5: Triviaverse
 
+![trivia](https://github.com/avwtr/stuff-squared/blob/main/triviaverse/gr.png?raw=true)
 
